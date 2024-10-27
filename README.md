@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smccawille88
-- 👀 I’m interested in SAS Programming/R Programming
-- 🌱 I’m currently learning SAS STAT
+- 👀 I’m interested in SAS/R/Python Programming
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Clinical Trial based programming. Improving on and automating SAS programs for various stages of clinical trials.
 - 📫 How to reach me ...
 
